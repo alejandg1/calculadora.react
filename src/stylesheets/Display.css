@@ -1,0 +1,13 @@
+.display{
+    height: 90px;    
+    margin-bottom: 21px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    padding: 11px 20px 11px 11px;
+    border-radius: 19px;
+    box-shadow: -3px 2px 5px 0px rgba(0,0,0,0.75);
+}
